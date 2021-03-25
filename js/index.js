@@ -3,7 +3,7 @@
 	const header = document.querySelector("header");
 	const section = document.querySelector("section");
 		/* STEP 3: Store the URL of a JSON file in a variable */
-		let requestURL = "https://github.com/JacobGraham02/comp1073-lab10/blob/main/project/files/js/i-scream.json";
+		let requestURL = "";
 
 		// let requestURL = "https://jacobgraham02.github.io/Lesson10-comp1073/js/i-scream.json";
 		
